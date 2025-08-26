@@ -1,10 +1,8 @@
-# Big Data & AI Solutions Portfolio
-
-This repository contains end-to-end examples and templates for building **Big Data pipelines** and **AI-powered workflows**. It showcases projects integrating **Apache Spark**, **AWS**, and **Large Language Models (LLMs)** with automation tools.
+# Big Data & AI Solutions 
 
 ---
 
-## 📂 Projects
+## 📂 Project
 
 ### 1. ETL Pipelines with Apache Spark
 - Designed and implemented scalable ETL pipelines.  
@@ -49,5 +47,3 @@ This repository contains end-to-end examples and templates for building **Big Da
 - **Automation:** n8n, Zapier, Make.com  
 
 ---
-
-This repo serves as a **portfolio of Big Data & AI solutions** with practical code samples and workflows.
