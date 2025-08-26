@@ -11,7 +11,7 @@ This repository contains end-to-end examples and templates for building **Big Da
 - Optimized using partitioning, caching, and resource management.  
 - Automated execution with orchestration tools (Apache NiFi, Control-M).  
 
-📌 Location: [`etl-pipelines/`](etl-pipelines/)
+📌 Location: etl-pipelines
 
 ---
 
@@ -20,7 +20,7 @@ This repository contains end-to-end examples and templates for building **Big Da
 - Created AI-powered automation workflows with **n8n**, **Zapier**, and **Make.com**.  
 - Developed agents capable of multi-step reasoning, API calls, and tool usage.  
 
-📌 Location: [`ai-agents/`](ai-agents/)
+📌 Location: ai-agents
 
 ---
 
@@ -28,7 +28,7 @@ This repository contains end-to-end examples and templates for building **Big Da
 - Developed RAG pipelines with **LangChain** and vector databases (**Pinecone, FAISS, Weaviate**).  
 - Used for domain-specific knowledge retrieval and question answering.  
 
-📌 Location: [`rag-pipelines/`](rag-pipelines/)
+📌 Location: rag-pipelines
 
 ---
 
@@ -37,7 +37,7 @@ This repository contains end-to-end examples and templates for building **Big Da
 - Technologies: Apache Spark, AWS S3, AWS EMR, AWS Glue, PySpark, SQL, OpenAI GPT, Vertex AI.  
 - Focused on safety insights using real-time and batch processing.  
 
-📌 Location: [`help-plus/`](help-plus/)
+📌 Location: help-plus
 
 ---
 
