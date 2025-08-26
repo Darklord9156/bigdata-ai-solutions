@@ -1,0 +1,19 @@
+# Core
+pyspark==3.5.1
+pandas==2.2.2
+numpy==1.26.4
+
+# LLM / RAG
+openai>=1.30.0
+langchain==0.2.10
+langchain-community==0.2.9
+faiss-cpu==1.8.0.post1
+tiktoken==0.7.0
+
+# AWS (local dev)
+boto3==1.34.162
+
+# Utilities
+python-dotenv==1.0.1
+fastapi==0.111.0
+uvicorn==0.30.0

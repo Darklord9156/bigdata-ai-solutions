@@ -1,0 +1,7 @@
+order_id,city,order_amount,order_date
+1,Pune,1200,2025-08-01
+2,Pune,800,2025-08-01
+3,Mumbai,1500,2025-08-01
+4,Pune,600,2025-08-02
+5,Mumbai,700,2025-08-02
+6,Nashik,400,2025-08-02

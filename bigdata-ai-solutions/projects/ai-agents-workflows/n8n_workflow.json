@@ -1,0 +1,46 @@
+{
+  "name": "Portfolio Demo - HTTP \u2192 OpenAI \u2192 Respond",
+  "nodes": [
+    {
+      "parameters": {
+        "path": "portfolio-demo",
+        "options": {}
+      },
+      "id": "http_in",
+      "name": "HTTP In",
+      "type": "n8n-nodes-base.httpIn"
+    },
+    {
+      "parameters": {
+        "operation": "chat"
+      },
+      "id": "openai",
+      "name": "OpenAI",
+      "type": "n8n-nodes-base.openAi"
+    },
+    {
+      "parameters": {
+        "responseBody": "Hello from n8n portfolio demo!"
+      },
+      "id": "http_resp",
+      "name": "HTTP Response",
+      "type": "n8n-nodes-base.httpResponse"
+    }
+  ],
+  "connections": {
+    "http_in": {
+      "main": [
+        [
+          "openai"
+        ]
+      ]
+    },
+    "openai": {
+      "main": [
+        [
+          "http_resp"
+        ]
+      ]
+    }
+  }
+}

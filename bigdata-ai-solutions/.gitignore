@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+.env
+.venv
+venv/
+.envrc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# macOS / IDE
+.DS_Store
+.idea/
+.vscode/
+
+# Node/Front-end (if any demos added later)
+node_modules/
+
+# Java/Scala
+target/
+*.class
+*.jar
+*.iml
+project/
+.metals/
+.worksheet/
+.ensime_cache/
