@@ -7,8 +7,6 @@
 [![Agents](https://img.shields.io/badge/AI%20Agents-Tools%20%26%20Workflows-brightgreen)](./projects/ai-agents-workflows)
 
 **Author:** Rangraj Raikar  
-**Location:** Pune, MH, India  
-**Email:** Rangraj.Raikar@outlook.com • **Phone:** +91-7796176965  
 **LinkedIn:** https://www.linkedin.com/in/Rangraj-Raikar
 
 ---
@@ -58,11 +56,6 @@ python projects/spark-etl-pipeline/pyspark/etl_job.py
 ```bash
 uvicorn projects.rag-llm-pipeline.api:app --reload
 ```
-
----
-
-## 📄 Resume
-See [`docs/resume.md`](./docs/resume.md).
 
 ---
 
